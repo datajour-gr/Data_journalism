@@ -1,2 +1,2 @@
-# Data_journalism
-All the code for the Data Journalism course is here
+# Δημοσιογραφία Δεδομένων
+Ο κώδικας του μαθήματος βρίσκεται εδώ.
